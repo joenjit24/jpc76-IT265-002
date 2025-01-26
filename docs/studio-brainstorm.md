@@ -79,7 +79,7 @@
 
 -- **Sketches/Logo**:
 
-![Studio Logo](/jpc76-IT265-002/docs/assets/IMG_1189.jpg)
+![Studio Logo](./jpc76-IT265-002/docs/assets/IMG_1189.jpg)
 
 ---
 
