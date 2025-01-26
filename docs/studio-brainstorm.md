@@ -1,43 +1,43 @@
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - Peanu
+  - Toegel Studios
+  - ORB
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - ModeBig
+  - Poppers
+  - Bateman
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: ORB
+- **About the name**: ORB
+- **Social Medias with name available**: Instagram: ORBStudios1
+- **Possible domain names available**: orbsstudio.net
 
 ---
 
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+> The mission of studio is to bring surreal and genre bending games to the public. It aligns with innovative game architectures by utiliazing both frameworks of 3D and 2D graphics.
 
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Skill ceilling
+- Crisp UI
+- Runs on any toaster
+- Novel controlset
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Causal player
+- **Interests:** Strategic gamepay
+- **Platforms:** PC
 
 ---
 
@@ -53,7 +53,7 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> I will bring a new type of a game to the causal player one with a very a high skill ceilling similar to   
 
 ---
 
