@@ -45,37 +45,37 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
-
+- Strayegy, Puzzle, PVP, PVE
+- Fantasy, Sci-Fi, Causual
+  
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> I will bring a new type of a game to the causal player one with a very a high skill ceilling similar to   
+> I will bring a new type of a game to the causal player one with a very a high skill ceilling similar to HearthStone. I like how that game looks as well as its balancing and will take a lot of points from that while still offering a very unique and fun gaming experience.
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** Unity, Unreal, LUA
+- **Art Tools:** Aseprite
+- **Audio Tools:** OBS, Audacity, Bfxr
+- **Version Control:** GitHub
+- **Publishing Platforms:** Itch.io, GitHub Pages
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** Minimalist, Unique, Subliminal
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - ORB its in the game
+  - Puzzle enthusiasts
+  - Strong indie titles
 
 -- **Sketches/Logo**:
 
@@ -84,4 +84,4 @@
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 
-> [Free space for brainstorming!]
+> I plan on making a new puzzle/strategy game different from all the ones already out there. I hope to set a precedent for what games should be.
