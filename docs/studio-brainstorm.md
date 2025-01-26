@@ -78,7 +78,9 @@
   - Strong indie titles
 
 -- **Sketches/Logo**:
+
 ![Studio Logo](/jpc76-IT265-002/assets/IMG_1189.jpg)
+
 ---
 
 ## Additional Notes
