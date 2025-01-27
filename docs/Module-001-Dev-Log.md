@@ -25,7 +25,7 @@
 #### Free Thinking
 - How can I make sure my game is fairly balanced?
 - What engine should I use?
-- What is a realistic roadmap/timefram for my game?
+- What is a realistic roadmap/timeframe for my game?
 
 #### Next Steps
 - The next session would be getting started on my first game. I feel I have a solid groundwork for a game studio and somewhat of an idea of what I want to do.
