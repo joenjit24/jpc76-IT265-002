@@ -7,25 +7,25 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] Learning GitHub Pages
+- [ ] Coming up with a studio name
+- [ ] Figuring out what you want to do with your game studio
 -->
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - <!--I came up with a studio name and an idea for what I would like to do with that studio-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  <!--I only had some slight issues with GitHub Pages, finding the link to my specific page as well as a inserting an image-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  <!--I used the discord the professor had us join as a resource to figure out the link for the page and I reffered to a guide to figure out how to insert an image on GitHub Pages-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  <!--Its okay to ask for help, and my professor seems very keen on helping us whenever we run into an issue-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
