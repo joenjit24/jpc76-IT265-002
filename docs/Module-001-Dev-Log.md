@@ -15,13 +15,13 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--I came up with a studio name and an idea for what I would like to do with that studio-->
+  - I came up with a studio name and an idea for what I would like to do with that studio
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--I only had some slight issues with GitHub Pages, finding the link to my specific page as well as a inserting an image-->
+  -  I only had some slight issues with GitHub Pages, finding the link to my specific page as well as a inserting an image
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--I used the discord the professor had us join as a resource to figure out the link for the page and I reffered to a guide to figure out how to insert an image on GitHub Pages-->
+  -  I used the discord the professor had us join as a resource to figure out the link for the page and I reffered to a guide to figure out how to insert an image on GitHub Pages
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
