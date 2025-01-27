@@ -14,13 +14,10 @@
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
   - I came up with a studio name and an idea for what I would like to do with that studio
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
   -  I only had some slight issues with GitHub Pages, finding the link to my specific page as well as a inserting an image
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
   -  I used the discord the professor had us join as a resource to figure out the link for the page and I reffered to a guide to figure out how to insert an image on GitHub Pages
 
 #### Learnings
@@ -28,8 +25,9 @@
 -  <!--Its okay to ask for help, and my professor seems very keen on helping us whenever we run into an issue-->
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- How can I make sure my game is fairly balanced?
+- What engine should I use?
+- What is a realistic roadmap/timefram for my game?
 <!--
 
 - Example prompts:
@@ -40,5 +38,4 @@
 -->
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- The next session would be getting started on my first game. I feel I have a solid groundwork for a game studio and somewhat of an idea of what I want to do.
