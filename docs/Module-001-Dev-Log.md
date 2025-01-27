@@ -7,33 +7,25 @@
 
 #### Goals for this Module
 
-- [x] Learning GitHub Pages
-- [x] Coming up with a studio name
-- [x] Figuring out what you want to do with your game studio
+- [x] Learning GitHub Pages.
+- [x] Coming up with a studio name.
+- [x] Figuring out what you want to do with your game studio.
 
 #### Progress
 - **What I accomplished**:
-  - I came up with a studio name and an idea for what I would like to do with that studio
+  - I came up with a studio name and an idea for what I would like to do with that studio.
 - **Challenges faced**:
-  -  I only had some slight issues with GitHub Pages, finding the link to my specific page as well as a inserting an image
+  -  I only had some slight issues with GitHub Pages, finding the link to my specific page as well as a inserting an image.
 - **Solutions**:
-  -  I used the discord the professor had us join as a resource to figure out the link for the page and I reffered to a guide to figure out how to insert an image on GitHub Pages
+  -  I used the discord the professor had us join as a resource to figure out the link for the page and I reffered to a guide to figure out how to insert an image on GitHub Pages.
 
 #### Learnings
-- Its okay to ask for help, and my professor seems very keen on helping us whenever we run into an issue
+- Its okay to ask for help, and my professor seems very keen on helping us whenever we run into an issue.
 
 #### Free Thinking
 - How can I make sure my game is fairly balanced?
 - What engine should I use?
 - What is a realistic roadmap/timefram for my game?
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - The next session would be getting started on my first game. I feel I have a solid groundwork for a game studio and somewhat of an idea of what I want to do.
