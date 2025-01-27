@@ -6,11 +6,10 @@
 ### Date: 01/23/2025
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Learning GitHub Pages
-- [ ] Coming up with a studio name
-- [ ] Figuring out what you want to do with your game studio
--->
+
+- [x] Learning GitHub Pages
+- [x] Coming up with a studio name
+- [x] Figuring out what you want to do with your game studio
 
 #### Progress
 - **What I accomplished**:
