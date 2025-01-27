@@ -20,8 +20,7 @@
   -  I used the discord the professor had us join as a resource to figure out the link for the page and I reffered to a guide to figure out how to insert an image on GitHub Pages
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Its okay to ask for help, and my professor seems very keen on helping us whenever we run into an issue-->
+- Its okay to ask for help, and my professor seems very keen on helping us whenever we run into an issue
 
 #### Free Thinking
 - How can I make sure my game is fairly balanced?
