@@ -7,7 +7,7 @@
 
 #### Goals for this Module
 
-- [x] Start on foundation of game first rough drafts
+- [x] Start on foundation of game's first rough draft
 - [x] Actually begin coding/grayboxing on game engine
 - [x] Start sketching concept models
 
