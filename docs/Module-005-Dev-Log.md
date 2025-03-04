@@ -7,9 +7,7 @@
 
 #### Goals for this Module
 - [x] Set up Unity project and familiarize with the editor.
-
 - [x] Complete foundational tutorials for Unity basics (e.g., scripting, scene setup).
-
 - [x] Draft initial sprite concepts for characters or game objects.
 
 #### Progress
