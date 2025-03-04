@@ -22,6 +22,8 @@
   - Broke down Unity learning into smaller tasks (e.g., focused on scripting one mechanic at a time).
   - Used Pinterest and indie game art references to refine sprite sketches (e.g., pixel art vs. minimalist shapes).
 
+<img src="./assets/sprite-ideas-01.png" alt="Sprite concepts" width="450" />
+
 #### Learnings
 - Unity’s component-based workflow (e.g., attaching scripts to GameObjects).
 - Importance of iterative design—rough sprites can evolve during prototyping.
