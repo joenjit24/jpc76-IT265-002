@@ -12,8 +12,8 @@
 
 #### Progress
 - **What I accomplished**:
-  -Created a new Unity project and configured basic settings (2D template, resolution).
-  -Watched tutorials on Unity scripting (e.g., movement, collisions) and scene organization.
+  - Created a new Unity project and configured basic settings (2D template, resolution).
+  - Watched tutorials on Unity scripting (e.g., movement, collisions) and scene organization.
   - Sketched rough sprite ideas for a player character, environment tiles, and a collectible item.
 - **Challenges faced**:
   - Overwhelmed by Unity’s interface (e.g., understanding the Hierarchy vs. Scene view).
