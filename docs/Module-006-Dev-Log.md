@@ -13,7 +13,6 @@
 #### Progress
 - **What I accomplished**:
   - Completed concept art and sketched out the game’s mechanics.
-  - Finalized a unique set of mechanics through iterative brainstorming.
 - **Challenges faced**:
   - Difficulty creating original mechanics without unintentionally copying existing games.
 - **Solutions**:
