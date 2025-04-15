@@ -23,6 +23,8 @@
   - Took time to study GameMaker’s tile system and experimented through trial and error.
   - Simplified the map to a grid-based structure to keep it organized and playable.
   - Used placeholder lava tiles to prototype obstacle placement and visual spacing.
+    
+![Rough Draft](./assets/Basic_Map_-_Joseph_C.png)
 
 #### Learnings
 - Symmetry in map layout plays a big role in ensuring fairness for all players.
