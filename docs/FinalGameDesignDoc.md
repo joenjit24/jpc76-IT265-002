@@ -121,7 +121,7 @@ $5 base game + future cosmetic and maps DLC
 ---
 
 ## Appendix
-![Player 2 Character Design](./assests/characterDesign.png)
+![Player 2 Character Design](./assets/characterDesign.png)
 ![Some Code](./assets/SomeCodeTM.png)
 ![Final Demo](./assets/FinalDemo.png)
 
