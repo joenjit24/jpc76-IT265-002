@@ -149,7 +149,9 @@ $5 base game + future cosmetic and maps DLC
 ---
 
 ## Appendix
+
 [Demo Video](https://www.youtube.com/watch?v=AUGYCYNYfR0&ab_channel=JosephLLC)
+
 ![Player 2 Character Design](./assets/characterDesign.png)
 ![Some Code](./assets/SomeCodeTM.png)
 ![Final Demo](./assets/FinalDemo.png)
