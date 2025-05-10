@@ -151,6 +151,7 @@ $5 base game + future cosmetic and maps DLC
 ## Appendix
 
 [Demo Video](https://www.youtube.com/watch?v=AUGYCYNYfR0&ab_channel=JosephLLC)
+[Game Link](https://joenjit24.github.io/jpc76-IT265-002/)
 
 ![Player 2 Character Design](./assets/characterDesign.png)
 ![Some Code](./assets/SomeCodeTM.png)
