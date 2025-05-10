@@ -40,3 +40,5 @@
 - Complete or polish the working map with final tiles.
 - Begin basic character sprite design and movement logic.
 - Consider early implementation of player spawn points and collisions.
+
+![Rough Draft](./assets/FinalDemo.png)
