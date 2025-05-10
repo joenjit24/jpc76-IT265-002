@@ -48,3 +48,5 @@
 3. **New Mechanics**:  
    - Office supplies as power-ups (stapler teleport, chair shield)  
    - Late-game AI countermeasures (shifting red zones after turn 10)  
+
+![Rough Draft](./assets/FinalDemo.png)
