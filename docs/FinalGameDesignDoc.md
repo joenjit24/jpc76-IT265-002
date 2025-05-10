@@ -86,12 +86,12 @@ GameMaker Studio, pixel art assets
 
 ## Art/Sound Direction  
 - **Visual**: Retro office with glowing AI core  
-- **Audio**: Chiptune music + arcade sound effects  
+- **Audio**: Arcade sound effects  
 
 ---
 
 ## Monetization  
-$5 base game + cosmetic DLC  
+$5 base game + future cosmetic and maps DLC  
 
 ---
 
