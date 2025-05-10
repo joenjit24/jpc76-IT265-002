@@ -7,6 +7,34 @@
 
 ---
 
+## Change Log
+
+### 🔹 Character Design Overhaul  
+**Change:** Original character designs included a TV monitor-headed character, but this was replaced with more quirky, stylized characters.  
+**Reason:** The change was made to create a more cohesive and appealing visual identity that better fit the game's tone and digital format.
+
+### 🔹 Cursor Implementation  
+**Change:** A cursor was added in the digital version to indicate where the player is pressing.  
+**Reason:** This was based on user feedback from early testing, where players had difficulty understanding their input was being registered. The cursor improved usability and clarity.
+
+### 🔹 Transition from Physical to Digital Format  
+**Change:** While the core game mechanics remained intact, the overall look and interface of the game changed significantly during the shift to digital.  
+**Reason:** The visual redesign was necessary to suit the digital platform and enhance user engagement through GUI elements not possible in the physical prototype.
+
+### 🔹 GUI Additions  
+**Change:** A graphical user interface (GUI) was introduced for in-game feedback.  
+**Reason:** These changes provided essential visual cues and improved the user experience, which were not present or needed in the physical prototype.
+
+### 🔹 Movement Rebalancing  
+**Change:** Adjusted the distance players could move during their turn.  
+**Reason:** Testing revealed that the original movement range either slowed down gameplay or made it unbalanced, so adjustments were made to improve pacing and strategic depth.
+
+### 🔹 Platform Focus Shift  
+**Change:** Development focus shifted exclusively to PC.  
+**Reason:** This allowed me to concentrate efforts on polishing the digital experience for a single platform, simplifying scope and reducing technical complications.
+
+---
+
 ## Concept Statement  
 *A cooperative sci-fi board game where 2-4 players race to shut down a rogue AI controlling their office, blending suspenseful strategy with chaotic fun.*
 
