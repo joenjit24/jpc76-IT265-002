@@ -121,9 +121,8 @@ $5 base game + future cosmetic and maps DLC
 ---
 
 ## Appendix
-<!-- 
-Include any additional sketches, mood boards, or early design mockups if available.  
-If digital assets are unavailable, describe any rough concepts you have in mind. 
--->
+![Player 2 Character Design](./assests/characterDesign.png)
+![Some Code](./assets/SomeCodeTM.png)
+![Final Demo](./assets/FinalDemo.png)
 
 ---
