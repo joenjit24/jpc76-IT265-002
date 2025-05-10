@@ -1,4 +1,4 @@
-# IT265 Design Treatment Checkpoint
+# IT265 Final Game Design Document
 
 ---
 
